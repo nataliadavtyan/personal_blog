@@ -15,7 +15,7 @@ html {
 }
 
 body {
-    min-width: 414px;
+    min-width: 100vw;
     background: #fafafa;
     margin-bottom: 165px; /* footer height + margin */
 }
