@@ -15,9 +15,9 @@ html {
 }
 
 body {
-    min-width: 100vw;
+    /* min-width: 100vw; */
     background: #fafafa;
-    margin-bottom: 165px; /* footer height + margin */
+    margin-bottom: 10.3125em; /* footer height + margin = 165px */
 }
 
 
@@ -25,6 +25,12 @@ body {
 /* ======================
           Typography
    ====================== */
+   
+.code {
+    background: #dedede;
+    font-family: monospace;
+    font-size: 1rem;
+}
    
 nav li {
     font-weight: 600;
@@ -155,13 +161,11 @@ a, button {
 
 li a:hover,
 li a:focus,
-button:hover,
-button:focus,
-.view-more-btn:hover,
-.view-more-btn:focus,
 .email:hover,
-.email:focus {
-    padding-bottom: 2px;
+.email:focus,
+button:hover,
+button:focus {
+    padding-bottom: 0.125em;
     border-bottom: 2px solid #edb724;
 }
 
@@ -187,7 +191,7 @@ button:active {
     font-size: 1rem;
     font-weight: 700;
     background: none;
-    padding-bottom: 2px;
+    padding-bottom: 0.125em;
     border: none;
     border-bottom: 2px solid #fafafa;
     display: block;
