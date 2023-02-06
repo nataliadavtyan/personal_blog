@@ -18,7 +18,7 @@ The project is built using:
 
 ## Technical details
 * Created 10 pages with 4 different types.
-* Used relative units and media query to make the website responsive.
+* Used relative units, grid and media query to make the website responsive.
 * Used mobile-first approach.
 * Followed the design file on Figma.
 * Added hover effects.
