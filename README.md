@@ -1,11 +1,35 @@
-## About Scrimba
+# Personal blog
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+Personal blog with some posts about the things that I learned during this project
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## Features
+Users can browse the blog and read the articles. The website is adapted for any screen size.
 
-Happy Coding!
+## Demo
+![The demonstration](images/personal-blog.gif)
+
+Test it on Netlify: https://sprightly-puffpuff-0d2593.netlify.app/
+
+## Technologies
+The project is built using:
+* HTML
+* CSS
+* JavaScript
+
+## Technical details
+* Created 10 pages with 4 different types.
+* Used relative units and media query to make the website responsive.
+* Used mobile-first approach.
+* Followed the design file on Figma.
+* Added hover effects.
+* Used JavaScript to render more posts when the user clicks the View more button.
+* Wrote all the articles.
+
+## Acknowledgements
+Personal blog is a solo project that was part of [the Frontend Developer Career Path at Scrimba](https://scrimba.com/learn/frontend).
+
+## Project status
+The project is complete.
+
+## Contact
+Created by [Natalia Davtyan](https://github.com/nataliadavtyan)
