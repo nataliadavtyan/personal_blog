@@ -6,7 +6,8 @@ Personal blog with some posts about the things that I learned during this projec
 Users can browse the blog and read the articles. The website is adapted for any screen size.
 
 ## Demo
-![The demonstration](images/personal-blog.gif)
+![The demonstration on desktop](images/personal-blog.gif)
+![The demonstration on mobile](images/personal-blog-2.gif)
 
 Test it on Netlify: https://sprightly-puffpuff-0d2593.netlify.app/
 
