@@ -26,11 +26,11 @@ The project is built using:
 * Used JavaScript to render more posts when the user clicks the View more button.
 * Wrote all the articles.
 
-## Acknowledgements
-Personal blog is a solo project that was part of [the Frontend Developer Career Path at Scrimba](https://scrimba.com/learn/frontend).
-
 ## Project status
 The project is complete.
+
+## Acknowledgements
+Personal blog is a solo project that was part of [the Frontend Developer Career Path at Scrimba](https://scrimba.com/learn/frontend).
 
 ## Contact
 Created by [Natalia Davtyan](https://github.com/nataliadavtyan)
