@@ -9,7 +9,7 @@ Users can browse the blog and read the articles. The website is adapted for any 
 ![The demonstration on desktop](images/personal-blog.gif)
 ![The demonstration on mobile](images/personal-blog-2.gif)
 
-Test it on Netlify: https://sprightly-puffpuff-0d2593.netlify.app/
+Test it on Netlify: https://personal-blog-natalia-davtyan.netlify.app/
 
 ## Technologies
 The project is built using:
